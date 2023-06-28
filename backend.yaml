@@ -6,7 +6,7 @@ spec:
   selector:
     app: backend
   ports:
-    - name: https
+    - name: http
       port: 8080
       targetPort: 8080
 
