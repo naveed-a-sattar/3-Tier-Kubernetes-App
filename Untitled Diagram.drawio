@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T10:53:52.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="AlIg3fWig3RzuVOl9AbI" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T10:54:50.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="kKeT9i7kUObFnyAwRL82" version="21.7.4" type="github">
   <diagram name="Page-1" id="kVDBZ0g_JJDt7dT5dPN7">
-    <mxGraphModel dx="2284" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,9 @@
             <mxPoint x="190" y="240" as="sourcePoint" />
             <mxPoint x="270" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qzfVXRtsNQgnUzW1sL9Q-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Flask app deployment on AWS with SQLite&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="10" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qzfVXRtsNQgnUzW1sL9Q-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="128" height="128" as="geometry" />
