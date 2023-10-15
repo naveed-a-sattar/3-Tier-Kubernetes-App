@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T18:13:54.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="u99GETMBOydB2y6spzx0" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T18:16:00.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="frs3-KYcXMRrzXLSdyWB" version="22.0.4" type="github">
   <diagram name="Page-1" id="YIjRGJwAvdLzjEUjeR9f">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -13,14 +13,14 @@
         <mxCell id="7_gAqY7YWuNrSEO8_6xX-3" value="Availability zone" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;hachureGap=4;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="830" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="7_gAqY7YWuNrSEO8_6xX-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;us-west-1 b&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="492" y="250" width="78" height="20" as="geometry" />
+        <mxCell id="7_gAqY7YWuNrSEO8_6xX-4" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ap-southeast-2a&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="492" y="250" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7_gAqY7YWuNrSEO8_6xX-8" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;hachureGap=4;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="810" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="7_gAqY7YWuNrSEO8_6xX-9" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;vpc-0b02fc643047134df&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="7_gAqY7YWuNrSEO8_6xX-8" vertex="1">
-          <mxGeometry x="52" width="180" height="22" as="geometry" />
+        <mxCell id="7_gAqY7YWuNrSEO8_6xX-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp;vpc-022ee6719457d5605&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="7_gAqY7YWuNrSEO8_6xX-8" vertex="1">
+          <mxGeometry x="62" width="180" height="22" as="geometry" />
         </mxCell>
         <mxCell id="7_gAqY7YWuNrSEO8_6xX-10" value="&lt;font&gt;Private subnet&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;hachureGap=4;fontFamily=Verdana;" parent="7_gAqY7YWuNrSEO8_6xX-8" vertex="1">
           <mxGeometry x="537" y="38.5" width="217" height="187.5" as="geometry" />
