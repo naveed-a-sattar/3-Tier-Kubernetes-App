@@ -2,7 +2,7 @@
 
 This repository contains the necessary files and instructions to deploy a basic 3-tier application using Kubernetes. The application consists of three components: a frontend, a backend, and a database. Each component will be deployed as a separate Kubernetes deployment, and the necessary services and ingress rules will be created to enable communication between the components.
 
-## Prerequisites
+### Prerequisites
 
 Before getting started, make sure you have the following prerequisites:
 
